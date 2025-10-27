@@ -19,11 +19,11 @@
 }
 #chimney {
     width: 50px;
-    height: 85px;
+    height: -85px;
     background-color: black;
     border: none;
     z-index: -1;
-    top: 0;
+    top: -85px;
     left: 20px;
 }
 #window-1 {
